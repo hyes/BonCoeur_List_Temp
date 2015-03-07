@@ -1,0 +1,5 @@
+/Users/hyes/AndroidStudioProjects/MyListforBC/app/build/intermediates/classes/debug
+/Users/hyes/AndroidStudioProjects/MyListforBC/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-0ce3c52bac3172ca13f5ea981cc7b869e7301eeb.jar
+/Users/hyes/AndroidStudioProjects/MyListforBC/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-f6439bbb7080b060ab696dfcebaa54ebe20ecf29.jar
+/Users/hyes/AndroidStudioProjects/MyListforBC/app/build/intermediates/pre-dexed/debug/classes-902d0c96d4f247a8b208e00c475f0c4f6a72615d.jar
+/Users/hyes/AndroidStudioProjects/MyListforBC/app/build/intermediates/pre-dexed/debug/classes-10ed30b41c9ab0500e582a621c75dc6cf07e7dee.jar
